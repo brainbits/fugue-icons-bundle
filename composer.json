@@ -1,0 +1,19 @@
+{
+    "name": "brainbits/fugue-icons-bundle",
+    "description": "Bundle including the fugue icon set.",
+    "keywords": ["fugue", "icons"],
+    "homepage": "http://p.yusukekamiyamane.com/",
+    "license": "CC-BY-3.0",
+    "authors": [
+        {
+            "name": "Stephan Wentz",
+            "email": "swentz@brainbits.net",
+            "role": "Packager"
+        },
+        {
+            "name": "Yusuke Kamiyamane",
+            "homepage": "http://p.yusukekamiyamane.com/"
+        }
+    ],
+    "minimum-stability": "stable"
+}
