@@ -13,7 +13,7 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
 /**
  * brainbits fugue icons bundle
  *
- * @author Stephan Wentz <swentt@brainbits.net>
+ * @author Stephan Wentz <swentz@brainbits.net>
  */
 class BrainbitsFugueIconsBundle extends Bundle
 {
