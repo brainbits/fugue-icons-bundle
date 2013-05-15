@@ -15,5 +15,8 @@
             "homepage": "http://p.yusukekamiyamane.com/"
         }
     ],
+    "autoload": {
+        "psr-0": { "Brainbits": "src/" }
+    },
     "minimum-stability": "stable"
 }
