@@ -49,4 +49,16 @@ $ php app/console assets:install
 ```
 
 
+### Step 4: Use icons
+
+The icon set is accessible through the uri 
+```
+/bundles/brainbitsfugueicons/icons/fugue/16/*.png
+```
+
+Also, the bonus icons in size 24 and 32 are availabile under 
+```
+/bundles/brainbitsfugueicons/icons/fugue/24/*.png
+/bundles/brainbitsfugueicons/icons/fugue/32/*.png
+```
 
